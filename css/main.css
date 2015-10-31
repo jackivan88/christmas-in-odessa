@@ -1,0 +1,89 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+.jumbotron {
+	background: url('../img/fireplace.jpg') no-repeat center center;
+	background-size: cover;
+	color: white;
+}
+
+.jumbotron p {
+	font-weight: 500;
+}
+
+body {
+	background-color: #FEFEFE;
+}
+
+.img-footer {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 2em
+}
+
+hr {
+	border-color: Silver;
+}
+
+footer p {
+	display: inline;
+}
+
+.footerLeft {
+	float:left;
+}
+
+.footerRight {
+	float:right;
+}
+
+blockquote p {
+	line-height: 1em;
+	font-size: 14px;
+}
+
+.email {
+	margin-top:9px;
+}
+
+#dealers {
+	margin-top: 1em;
+	margin-bottom: 1em;
+}
+
+#dealers tr > td:nth-child(2) {
+	text-align: right;
+}
+
+#dealers tr > th {
+	text-align: center;
+}
+
+.image-margin {
+	margin-bottom: 1em;
+}
+
+.thumbnail.with-caption {
+	display: inline-block;
+	background: #f5f5f5;
+}
+
+.thumbnail.with-caption p {
+	margin: 0;
+	padding-top: 0.5em;
+}
+
+.thumbnail.with-caption small:before {
+	content: '\2014 \00A0';
+}
+
+.thumbnail.with-caption small {
+	width: 100%;
+	text-align: right;
+	display: inline-block;
+	color: #999;
+}
