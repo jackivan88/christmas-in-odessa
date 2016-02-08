@@ -5,9 +5,10 @@
    ========================================================================== */
 
 .jumbotron {
-	background: url('../img/fireplace.jpg') no-repeat center center;
+	background: url('../img/cioHeader.jpg') no-repeat center center;
 	background-size: cover;
 	color: white;
+	height: 300px;
 }
 
 .jumbotron p {
