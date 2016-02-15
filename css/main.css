@@ -1,8 +1,8 @@
 
 
 /* ==========================================================================
-   Author's custom styles
-   ========================================================================== */
+Author's custom styles
+========================================================================== */
 
 .jumbotron {
 	background: url('../img/cioHeader.jpg') no-repeat center center;
@@ -17,6 +17,7 @@
 
 body {
 	background-color: #FEFEFE;
+	padding-top: 0px;
 }
 
 .img-footer {
@@ -35,11 +36,11 @@ footer p {
 }
 
 .footerLeft {
-	float:left;
+	float: left;
 }
 
 .footerRight {
-	float:right;
+	float: right;
 }
 
 blockquote p {
@@ -48,7 +49,7 @@ blockquote p {
 }
 
 .email {
-	margin-top:9px;
+	margin-top: 9px;
 }
 
 #dealers {
